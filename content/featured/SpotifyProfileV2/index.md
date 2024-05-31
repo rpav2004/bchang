@@ -1,16 +1,19 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Connecting your world - with your choice in hardware.'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://app.muchskills.com/user/bobpavlick'
+cta: 'https://app.muchskills.com/user/bobpavlick'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Networks
+  - Security
+  - OS Integration
+  - VPN
+  - WAN and SD-WAN
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+If you've got it, chances are, I've worked with it.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Throughout my many years in the information technology field, I've had the chance to implement, debug, design, troubleshoot, architect, install and configure a lot of things from a lot of vendors. The card to the left shows just a few of my favorites.
+
+Over the years, the integration of hardware and software from multiple vendors has always been at the forefront of my mind. This has allowed me to not only learn a single company's methods, but to deep dive into the underlying technology and embrace it from the ground up. I'm able to take that knowledge and apply it to your network and devices to give you the solutions that you need without the headache of choosing a specific vendor. Together, we can decide which implementation is right for you and your company.

@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'bob@bobpavlick.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/rpav2004',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/bobviously/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/r_pav',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/bobpavlick',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Upwork',
+      url: 'https://www.upwork.com/freelancers/bobpavlick',
     },
   ],
 
@@ -34,8 +34,8 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
-      url: '/#projects',
+      name: 'Certifications',
+      url: '/#jobs',
     },
     {
       name: 'Contact',
