@@ -3,7 +3,7 @@ date: '2014 - February'
 title: 'Engineer - Network Planning and Architecture'
 company: 'Continental Broadband dba. Expedient, LLC'
 location: 'Garfield Heights, OH'
-range: 'Sptember 2013- Februaru 2014'
+range: 'September 2013- February 2014'
 url: 'https://www.expedient.com/'
 ---
 

@@ -66,8 +66,8 @@ const Hero = () => {
     <>
       <p>
         I’m a network engineer and consultant specializing in building and designing networks to
-        exact client needs. Currently, I’m focused on assisting clients with almost any sort of
-        technological need. Please reach out to me <a href="mailto:bob@bobpavlick.com"> here</a>{' '}
+        exact client requirements. Currently, I’m focused on assisting clients with almost any sort
+        of technological need. Please reach out to me <a href="mailto:bob@bobpavlick.com"> here</a>{' '}
         with any questions or requests.
       </p>
     </>
